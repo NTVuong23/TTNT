@@ -1,0 +1,30 @@
+/* File style.css */
+.root {
+    -fx-background-color: #F0F8FF; /* Màu nền dịu */
+}
+
+.button {
+    -fx-background-color: #6A5ACD; /* Màu xanh dương nhạt cho nút */
+    -fx-text-fill: white;
+    -fx-background-radius: 10px; /* Bo góc */
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.2), 5, 0.5, 0, 3); /* Đổ bóng */
+}
+
+.button-graph {
+    -fx-background-color: #4682B4; /* Màu nút Graph */
+    -fx-text-fill: white; /* Màu chữ trắng */
+    -fx-background-radius: 10; /* Bo góc */
+}
+
+.label {
+    -fx-font-size: 14px;
+    -fx-text-fill: #333333; /* Màu xám đậm */
+    -fx-font-weight: bold;
+}
+
+
+
+.radio-button {
+    -fx-background-color: #E6E6FA; /* Màu nền nhạt cho RadioButton */
+    -fx-background-radius: 10;
+}
