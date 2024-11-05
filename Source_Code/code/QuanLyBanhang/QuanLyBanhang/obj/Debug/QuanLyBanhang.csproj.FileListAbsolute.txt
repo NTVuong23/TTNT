@@ -1,0 +1,44 @@
+D:\Lập trình .NET\QuanLyBanhang\QuanLyBanhang\bin\Debug\QuanLyBanhang.exe.config
+D:\Lập trình .NET\QuanLyBanhang\QuanLyBanhang\bin\Debug\QuanLyBanhang.exe
+D:\Lập trình .NET\QuanLyBanhang\QuanLyBanhang\bin\Debug\QuanLyBanhang.pdb
+D:\Lập trình .NET\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.csproj.AssemblyReference.cache
+D:\Lập trình .NET\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.Form1.resources
+D:\Lập trình .NET\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.Properties.Resources.resources
+D:\Lập trình .NET\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.csproj.GenerateResource.cache
+D:\Lập trình .NET\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.csproj.CoreCompileInputs.cache
+D:\Lập trình .NET\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.exe
+D:\Lập trình .NET\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.pdb
+D:\Lập trình .NET\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.DMChatlieu.resources
+D:\Lập trình .NET\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.DMHangHoa.resources
+D:\Lập trình .NET\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.s.resources
+D:\Lập trình .NET\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.DMNhanvien.resources
+D:\Lập trình .NET\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.HoaDonBan.resources
+E:\BT_Nhom\QuanLyBanhang\QuanLyBanhang\bin\Debug\QuanLyBanhang.exe.config
+E:\BT_Nhom\QuanLyBanhang\QuanLyBanhang\bin\Debug\QuanLyBanhang.exe
+E:\BT_Nhom\QuanLyBanhang\QuanLyBanhang\bin\Debug\QuanLyBanhang.pdb
+E:\BT_Nhom\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.csproj.AssemblyReference.cache
+E:\BT_Nhom\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.Form1.resources
+E:\BT_Nhom\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.Properties.Resources.resources
+E:\BT_Nhom\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.csproj.GenerateResource.cache
+E:\BT_Nhom\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.csproj.CoreCompileInputs.cache
+E:\BT_Nhom\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.exe
+E:\BT_Nhom\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.pdb
+E:\BT_Nhom\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.NhaCungCap.resources
+E:\BT_Nhom\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.KhachHangcs.resources
+E:\BT_Nhom\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.SanPham.resources
+E:\BT_Nhom\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.NhanVien.resources
+E:\BT_Nhom\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.PhieuNhap.resources
+E:\BT_Nhom\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.HoaDoncs.resources
+E:\BT_Nhom\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.GiamGia.resources
+E:\BT_Nhom\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.LoaiHang.resources
+E:\BT_Nhom\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.HoanTra.resources
+E:\BT_Nhom\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.CapNhapSL.resources
+E:\BT_Nhom\QuanLyBanhang\QuanLyBanhang\bin\Debug\Bunifu.Dataviz.WinForms.dll
+E:\BT_Nhom\QuanLyBanhang\QuanLyBanhang\bin\Debug\Bunifu.Licensing.dll
+E:\BT_Nhom\QuanLyBanhang\QuanLyBanhang\bin\Debug\Bunifu.Dataviz.WinForms.xml
+E:\BT_Nhom\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.ThongKe.resources
+E:\BT_Nhom\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.csproj.CopyComplete
+E:\BT_Nhom\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.TaoTaiKhoan.resources
+E:\BT_Nhom\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.DangNhap.resources
+E:\BT_Nhom\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.frmMain_nv.resources
+E:\BT_Nhom\QuanLyBanhang\QuanLyBanhang\obj\Debug\QuanLyBanhang.LuongNhanVien.resources

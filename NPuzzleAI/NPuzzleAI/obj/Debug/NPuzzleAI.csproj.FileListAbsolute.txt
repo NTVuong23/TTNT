@@ -1,0 +1,13 @@
+D:\C#\NPuzzleAI\NPuzzleAI\bin\Debug\img\goal-1.png
+D:\C#\NPuzzleAI\NPuzzleAI\bin\Debug\img\goal-2.png
+D:\C#\NPuzzleAI\NPuzzleAI\bin\Debug\img\logo.png
+D:\C#\NPuzzleAI\NPuzzleAI\bin\Debug\NPuzzleAI.exe.config
+D:\C#\NPuzzleAI\NPuzzleAI\bin\Debug\NPuzzleAI.exe
+D:\C#\NPuzzleAI\NPuzzleAI\bin\Debug\NPuzzleAI.pdb
+D:\C#\NPuzzleAI\NPuzzleAI\obj\Debug\NPuzzleAI.csproj.AssemblyReference.cache
+D:\C#\NPuzzleAI\NPuzzleAI\obj\Debug\NPuzzleAI.Form1.resources
+D:\C#\NPuzzleAI\NPuzzleAI\obj\Debug\NPuzzleAI.Properties.Resources.resources
+D:\C#\NPuzzleAI\NPuzzleAI\obj\Debug\NPuzzleAI.csproj.GenerateResource.cache
+D:\C#\NPuzzleAI\NPuzzleAI\obj\Debug\NPuzzleAI.csproj.CoreCompileInputs.cache
+D:\C#\NPuzzleAI\NPuzzleAI\obj\Debug\NPuzzleAI.exe
+D:\C#\NPuzzleAI\NPuzzleAI\obj\Debug\NPuzzleAI.pdb

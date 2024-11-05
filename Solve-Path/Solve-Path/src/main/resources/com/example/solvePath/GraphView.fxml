@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.canvas.Canvas?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="640.0" prefWidth="840.0" stylesheets="@stylegame.css" xmlns="http://javafx.com/javafx/23" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.solvePath.N_DothiController">
+    <children>
+
+        <!-- Bảng kết quả -->
+        <VBox layoutX="12.0" layoutY="14.0" prefHeight="197.0" prefWidth="549.0" spacing="5">
+            <Label fx:id="lblResultDFS" text="Kết quả DFS:" />
+            <Label fx:id="lblStepsDFS" text="Số bước DFS:" />
+            <Label fx:id="lblTimeDFS" text="Thời gian DFS:" />
+            <Label fx:id="lblFindDFS" text="Đường đi ngắn nhất DFS:" />
+            <Label fx:id="lblResultBFS" text="Kết quả BFS:" />
+            <Label fx:id="lblStepsBFS" text="Số bước BFS:" />
+            <Label fx:id="lblTimeBFS" text="Thời gian BFS:" />
+            <Label fx:id="lblFindBFS" text="Đường đi ngắn nhất BFS:" />
+        </VBox>
+
+        <!-- Khu vực vẽ -->
+        <Pane layoutX="26.0" layoutY="222.0" prefHeight="371.0" prefWidth="525.0" style="-fx-border-color: black;">
+         <children>
+            <Canvas fx:id="drawingPanel" height="389.0" layoutX="-7.0" layoutY="-10.0" width="541.0" />
+         </children></Pane>
+
+        <!-- Nút Lưu và Thoát -->
+        <VBox alignment="BOTTOM_CENTER" layoutX="640.0" layoutY="489.0" prefHeight="103.0" prefWidth="124.0" spacing="10">
+            <Button fx:id="btnSaveImage" onAction="#onbtnSaveImageClick" prefHeight="41.0" prefWidth="122.0" style="-fx-background-color: skyblue;" text="Save Picture" />
+            <Button fx:id="btnExit" onAction="#onbtnExitClick" prefHeight="44.0" prefWidth="127.0" style="-fx-background-color: skyblue;" text="Exit" />
+        </VBox>
+         <HBox layoutX="513.0" layoutY="168.0" spacing="10" />
+          <Button fx:id="btnReset" layoutX="640.0" layoutY="62.0" onAction="#onbtnResetClick" prefHeight="44.0" prefWidth="124.0" style="-fx-background-color: skyblue;" text="Reset" />
+          <Button fx:id="btnTraverse" layoutX="707.0" layoutY="14.0" onAction="#onbtnTraverseClick" prefHeight="39.0" prefWidth="124.0" style="-fx-background-color: skyblue;" text="Duyệt Đồ Thị" />
+          <Button fx:id="btnAddEdge" layoutX="572.0" layoutY="14.0" onAction="#onaddEdgeBtnClick" prefHeight="39.0" prefWidth="124.0" style="-fx-background-color: skyblue;" text="Thêm Cạnh" />
+        <TextField fx:id="txtStartVertex" layoutX="572.0" layoutY="119.0" prefHeight="25.0" prefWidth="124.0" promptText="Đỉnh bắt đầu" />
+
+          <TextField fx:id="txtEndVertex" layoutX="707.0" layoutY="119.0" prefHeight="25.0" prefWidth="124.0" promptText="Đỉnh kết thúc" />
+      <ImageView fx:id="imgView" fitHeight="177.0" fitWidth="222.0" layoutX="591.0" layoutY="274.0" pickOnBounds="true" preserveRatio="true">
+
+      </ImageView>
+
+    </children>
+</AnchorPane>

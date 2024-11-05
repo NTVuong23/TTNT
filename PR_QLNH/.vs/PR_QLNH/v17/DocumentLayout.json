@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\PR_QLNH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A19AE2B6-9AA3-4A22-8EAA-E2E76398B6E4}|BLL\\BLL.csproj|d:\\c#\\pr_qlnh\\bll\\taikhoanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19AE2B6-9AA3-4A22-8EAA-E2E76398B6E4}|BLL\\BLL.csproj|solutionrelative:bll\\taikhoanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD2BBC8-EBF4-42EF-9DDE-EB4B1AC89BBD}|GUI\\GUI.csproj|d:\\c#\\pr_qlnh\\gui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD2BBC8-EBF4-42EF-9DDE-EB4B1AC89BBD}|GUI\\GUI.csproj|solutionrelative:gui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD2BBC8-EBF4-42EF-9DDE-EB4B1AC89BBD}|GUI\\GUI.csproj|d:\\c#\\pr_qlnh\\gui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DFD2BBC8-EBF4-42EF-9DDE-EB4B1AC89BBD}|GUI\\GUI.csproj|solutionrelative:gui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67D3090-6330-4BDA-9E3A-BF9DF4DC1A06}|DAL\\DAL.csproj|d:\\c#\\pr_qlnh\\dal\\taikhoanaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67D3090-6330-4BDA-9E3A-BF9DF4DC1A06}|DAL\\DAL.csproj|solutionrelative:dal\\taikhoanaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67D3090-6330-4BDA-9E3A-BF9DF4DC1A06}|DAL\\DAL.csproj|d:\\c#\\pr_qlnh\\dal\\databaseaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67D3090-6330-4BDA-9E3A-BF9DF4DC1A06}|DAL\\DAL.csproj|solutionrelative:dal\\databaseaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaiKhoanBLL.cs",
+              "DocumentMoniker": "D:\\C#\\PR_QLNH\\BLL\\TaiKhoanBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\TaiKhoanBLL.cs",
+              "ToolTip": "D:\\C#\\PR_QLNH\\BLL\\TaiKhoanBLL.cs",
+              "RelativeToolTip": "BLL\\TaiKhoanBLL.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T17:52:11.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaiKhoanAccess.cs",
+              "DocumentMoniker": "D:\\C#\\PR_QLNH\\DAL\\TaiKhoanAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\TaiKhoanAccess.cs",
+              "ToolTip": "D:\\C#\\PR_QLNH\\DAL\\TaiKhoanAccess.cs",
+              "RelativeToolTip": "DAL\\TaiKhoanAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:39:21.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\PR_QLNH\\GUI\\DangNhap.cs",
+              "RelativeDocumentMoniker": "GUI\\DangNhap.cs",
+              "ToolTip": "D:\\C#\\PR_QLNH\\GUI\\DangNhap.cs [Design]",
+              "RelativeToolTip": "GUI\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T14:20:02.127Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "D:\\C#\\PR_QLNH\\GUI\\DangNhap.cs",
+              "RelativeDocumentMoniker": "GUI\\DangNhap.cs",
+              "ToolTip": "D:\\C#\\PR_QLNH\\GUI\\DangNhap.cs",
+              "RelativeToolTip": "GUI\\DangNhap.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswD0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:10:05.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataBaseAccess.cs",
+              "DocumentMoniker": "D:\\C#\\PR_QLNH\\DAL\\DataBaseAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\DataBaseAccess.cs",
+              "ToolTip": "D:\\C#\\PR_QLNH\\DAL\\DataBaseAccess.cs",
+              "RelativeToolTip": "DAL\\DataBaseAccess.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADwv0IAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T14:54:13.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

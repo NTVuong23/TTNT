@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\L\u1EADp tr\u00ECnh .NET\\QuanLyBanhang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{935CFD46-A610-469B-A664-8975BDDFEEDA}|QuanLyBanhang\\QuanLyBanhang.csproj|d:\\l\u1EADp tr\u00ECnh .net\\quanlybanhang\\quanlybanhang\\timkiemhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{935CFD46-A610-469B-A664-8975BDDFEEDA}|QuanLyBanhang\\QuanLyBanhang.csproj|solutionrelative:quanlybanhang\\timkiemhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935CFD46-A610-469B-A664-8975BDDFEEDA}|QuanLyBanhang\\QuanLyBanhang.csproj|d:\\l\u1EADp tr\u00ECnh .net\\quanlybanhang\\quanlybanhang\\hoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{935CFD46-A610-469B-A664-8975BDDFEEDA}|QuanLyBanhang\\QuanLyBanhang.csproj|solutionrelative:quanlybanhang\\hoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935CFD46-A610-469B-A664-8975BDDFEEDA}|QuanLyBanhang\\QuanLyBanhang.csproj|D:\\L\u1EADp tr\u00ECnh .NET\\QuanLyBanhang\\quanlybanhang\\dmhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{935CFD46-A610-469B-A664-8975BDDFEEDA}|QuanLyBanhang\\QuanLyBanhang.csproj|solutionrelative:quanlybanhang\\dmhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935CFD46-A610-469B-A664-8975BDDFEEDA}|QuanLyBanhang\\QuanLyBanhang.csproj|D:\\L\u1EADp tr\u00ECnh .NET\\QuanLyBanhang\\quanlybanhang\\dmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{935CFD46-A610-469B-A664-8975BDDFEEDA}|QuanLyBanhang\\QuanLyBanhang.csproj|solutionrelative:quanlybanhang\\dmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935CFD46-A610-469B-A664-8975BDDFEEDA}|QuanLyBanhang\\QuanLyBanhang.csproj|D:\\L\u1EADp tr\u00ECnh .NET\\QuanLyBanhang\\quanlybanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935CFD46-A610-469B-A664-8975BDDFEEDA}|QuanLyBanhang\\QuanLyBanhang.csproj|solutionrelative:quanlybanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935CFD46-A610-469B-A664-8975BDDFEEDA}|QuanLyBanhang\\QuanLyBanhang.csproj|D:\\L\u1EADp tr\u00ECnh .NET\\QuanLyBanhang\\quanlybanhang\\dmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{935CFD46-A610-469B-A664-8975BDDFEEDA}|QuanLyBanhang\\QuanLyBanhang.csproj|solutionrelative:quanlybanhang\\dmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935CFD46-A610-469B-A664-8975BDDFEEDA}|QuanLyBanhang\\QuanLyBanhang.csproj|D:\\L\u1EADp tr\u00ECnh .NET\\QuanLyBanhang\\quanlybanhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{935CFD46-A610-469B-A664-8975BDDFEEDA}|QuanLyBanhang\\QuanLyBanhang.csproj|solutionrelative:quanlybanhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935CFD46-A610-469B-A664-8975BDDFEEDA}|QuanLyBanhang\\QuanLyBanhang.csproj|D:\\L\u1EADp tr\u00ECnh .NET\\QuanLyBanhang\\quanlybanhang\\dmchatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{935CFD46-A610-469B-A664-8975BDDFEEDA}|QuanLyBanhang\\QuanLyBanhang.csproj|solutionrelative:quanlybanhang\\dmchatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935CFD46-A610-469B-A664-8975BDDFEEDA}|QuanLyBanhang\\QuanLyBanhang.csproj|D:\\L\u1EADp tr\u00ECnh .NET\\QuanLyBanhang\\quanlybanhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935CFD46-A610-469B-A664-8975BDDFEEDA}|QuanLyBanhang\\QuanLyBanhang.csproj|solutionrelative:quanlybanhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimkiemHD.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh .NET\\QuanLyBanhang\\QuanLyBanhang\\TimkiemHD.cs",
+              "RelativeDocumentMoniker": "QuanLyBanhang\\TimkiemHD.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh .NET\\QuanLyBanhang\\QuanLyBanhang\\TimkiemHD.cs [Design]",
+              "RelativeToolTip": "QuanLyBanhang\\TimkiemHD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:26:04.17Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HoaDonBan.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh .NET\\QuanLyBanhang\\QuanLyBanhang\\HoaDonBan.cs",
+              "RelativeDocumentMoniker": "QuanLyBanhang\\HoaDonBan.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh .NET\\QuanLyBanhang\\QuanLyBanhang\\HoaDonBan.cs [Design]",
+              "RelativeToolTip": "QuanLyBanhang\\HoaDonBan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T09:07:56.901Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DMHangHoa.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh .NET\\QuanLyBanhang\\QuanLyBanhang\\DMHangHoa.cs",
+              "RelativeDocumentMoniker": "QuanLyBanhang\\DMHangHoa.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh .NET\\QuanLyBanhang\\QuanLyBanhang\\DMHangHoa.cs [Design]",
+              "RelativeToolTip": "QuanLyBanhang\\DMHangHoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T08:31:03.585Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DMKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh .NET\\QuanLyBanhang\\QuanLyBanhang\\DMKhachHang.cs",
+              "RelativeDocumentMoniker": "QuanLyBanhang\\DMKhachHang.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh .NET\\QuanLyBanhang\\QuanLyBanhang\\DMKhachHang.cs [Design]",
+              "RelativeToolTip": "QuanLyBanhang\\DMKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T07:13:04.736Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DMNhanvien.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh .NET\\QuanLyBanhang\\QuanLyBanhang\\DMNhanvien.cs",
+              "RelativeDocumentMoniker": "QuanLyBanhang\\DMNhanvien.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh .NET\\QuanLyBanhang\\QuanLyBanhang\\DMNhanvien.cs [Design]",
+              "RelativeToolTip": "QuanLyBanhang\\DMNhanvien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:53:15.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh .NET\\QuanLyBanhang\\QuanLyBanhang\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLyBanhang\\Form1.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh .NET\\QuanLyBanhang\\QuanLyBanhang\\Form1.cs",
+              "RelativeToolTip": "QuanLyBanhang\\Form1.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:11:33.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh .NET\\QuanLyBanhang\\QuanLyBanhang\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyBanhang\\Program.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh .NET\\QuanLyBanhang\\QuanLyBanhang\\Program.cs",
+              "RelativeToolTip": "QuanLyBanhang\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:39:56.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DMChatlieu.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh .NET\\QuanLyBanhang\\QuanLyBanhang\\DMChatlieu.cs",
+              "RelativeDocumentMoniker": "QuanLyBanhang\\DMChatlieu.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh .NET\\QuanLyBanhang\\QuanLyBanhang\\DMChatlieu.cs [Design]",
+              "RelativeToolTip": "QuanLyBanhang\\DMChatlieu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T09:19:36.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh .NET\\QuanLyBanhang\\QuanLyBanhang\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLyBanhang\\Form1.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh .NET\\QuanLyBanhang\\QuanLyBanhang\\Form1.cs [Design]",
+              "RelativeToolTip": "QuanLyBanhang\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T05:42:12.125Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

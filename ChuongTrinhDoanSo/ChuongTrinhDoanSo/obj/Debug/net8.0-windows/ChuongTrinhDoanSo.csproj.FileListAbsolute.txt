@@ -1,0 +1,6 @@
+D:\C#\ChuongTrinhDoanSo\ChuongTrinhDoanSo\obj\Debug\net8.0-windows\ChuongTrinhDoanSo.Program.resources
+D:\C#\ChuongTrinhDoanSo\ChuongTrinhDoanSo\obj\Debug\net8.0-windows\ChuongTrinhDoanSo.csproj.GenerateResource.cache
+D:\C#\ChuongTrinhDoanSo\ChuongTrinhDoanSo\obj\Debug\net8.0-windows\ChuongTrinhDoanSo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ChuongTrinhDoanSo\ChuongTrinhDoanSo\obj\Debug\net8.0-windows\ChuongTrinhDoanSo.AssemblyInfoInputs.cache
+D:\C#\ChuongTrinhDoanSo\ChuongTrinhDoanSo\obj\Debug\net8.0-windows\ChuongTrinhDoanSo.AssemblyInfo.cs
+D:\C#\ChuongTrinhDoanSo\ChuongTrinhDoanSo\obj\Debug\net8.0-windows\ChuongTrinhDoanSo.csproj.CoreCompileInputs.cache

@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\NPuzzleAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6821A1D5-4636-4CD9-A7F1-026822E4A1CF}|NPuzzleAI\\NPuzzleAI.csproj|D:\\C#\\NPuzzleAI\\npuzzleai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6821A1D5-4636-4CD9-A7F1-026822E4A1CF}|NPuzzleAI\\NPuzzleAI.csproj|solutionrelative:npuzzleai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6821A1D5-4636-4CD9-A7F1-026822E4A1CF}|NPuzzleAI\\NPuzzleAI.csproj|D:\\C#\\NPuzzleAI\\npuzzleai\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6821A1D5-4636-4CD9-A7F1-026822E4A1CF}|NPuzzleAI\\NPuzzleAI.csproj|solutionrelative:npuzzleai\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6821A1D5-4636-4CD9-A7F1-026822E4A1CF}|NPuzzleAI\\NPuzzleAI.csproj|D:\\C#\\NPuzzleAI\\npuzzleai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6821A1D5-4636-4CD9-A7F1-026822E4A1CF}|NPuzzleAI\\NPuzzleAI.csproj|solutionrelative:npuzzleai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6821A1D5-4636-4CD9-A7F1-026822E4A1CF}|NPuzzleAI\\NPuzzleAI.csproj|d:\\c#\\npuzzleai\\npuzzleai\\handleimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6821A1D5-4636-4CD9-A7F1-026822E4A1CF}|NPuzzleAI\\NPuzzleAI.csproj|solutionrelative:npuzzleai\\handleimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6821A1D5-4636-4CD9-A7F1-026822E4A1CF}|NPuzzleAI\\NPuzzleAI.csproj|D:\\C#\\NPuzzleAI\\npuzzleai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6821A1D5-4636-4CD9-A7F1-026822E4A1CF}|NPuzzleAI\\NPuzzleAI.csproj|solutionrelative:npuzzleai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6821A1D5-4636-4CD9-A7F1-026822E4A1CF}|NPuzzleAI\\NPuzzleAI.csproj|D:\\C#\\NPuzzleAI\\npuzzleai\\puzzlegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6821A1D5-4636-4CD9-A7F1-026822E4A1CF}|NPuzzleAI\\NPuzzleAI.csproj|solutionrelative:npuzzleai\\puzzlegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6821A1D5-4636-4CD9-A7F1-026822E4A1CF}|NPuzzleAI\\NPuzzleAI.csproj|D:\\C#\\NPuzzleAI\\npuzzleai\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6821A1D5-4636-4CD9-A7F1-026822E4A1CF}|NPuzzleAI\\NPuzzleAI.csproj|solutionrelative:npuzzleai\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6821A1D5-4636-4CD9-A7F1-026822E4A1CF}|NPuzzleAI\\NPuzzleAI.csproj|D:\\C#\\NPuzzleAI\\npuzzleai\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6821A1D5-4636-4CD9-A7F1-026822E4A1CF}|NPuzzleAI\\NPuzzleAI.csproj|solutionrelative:npuzzleai\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6821A1D5-4636-4CD9-A7F1-026822E4A1CF}|NPuzzleAI\\NPuzzleAI.csproj|D:\\C#\\NPuzzleAI\\npuzzleai\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6821A1D5-4636-4CD9-A7F1-026822E4A1CF}|NPuzzleAI\\NPuzzleAI.csproj|solutionrelative:npuzzleai\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6821A1D5-4636-4CD9-A7F1-026822E4A1CF}|NPuzzleAI\\NPuzzleAI.csproj|D:\\C#\\NPuzzleAI\\npuzzleai\\n_puzzleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6821A1D5-4636-4CD9-A7F1-026822E4A1CF}|NPuzzleAI\\NPuzzleAI.csproj|solutionrelative:npuzzleai\\n_puzzleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6821A1D5-4636-4CD9-A7F1-026822E4A1CF}|NPuzzleAI\\NPuzzleAI.csproj|D:\\C#\\NPuzzleAI\\npuzzleai\\astar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6821A1D5-4636-4CD9-A7F1-026822E4A1CF}|NPuzzleAI\\NPuzzleAI.csproj|solutionrelative:npuzzleai\\astar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6821A1D5-4636-4CD9-A7F1-026822E4A1CF}|NPuzzleAI\\NPuzzleAI.csproj|D:\\C#\\NPuzzleAI\\npuzzleai\\bfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6821A1D5-4636-4CD9-A7F1-026822E4A1CF}|NPuzzleAI\\NPuzzleAI.csproj|solutionrelative:npuzzleai\\bfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6821A1D5-4636-4CD9-A7F1-026822E4A1CF}|NPuzzleAI\\NPuzzleAI.csproj|D:\\C#\\NPuzzleAI\\npuzzleai\\dfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6821A1D5-4636-4CD9-A7F1-026822E4A1CF}|NPuzzleAI\\NPuzzleAI.csproj|solutionrelative:npuzzleai\\dfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 332,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C#\\NPuzzleAI\\NPuzzleAI\\Form1.cs",
+              "RelativeDocumentMoniker": "NPuzzleAI\\Form1.cs",
+              "ToolTip": "D:\\C#\\NPuzzleAI\\NPuzzleAI\\Form1.cs*",
+              "RelativeToolTip": "NPuzzleAI\\Form1.cs*",
+              "ViewState": "AgIAACAAAAAAAAAAAADwvzkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:17:40.844Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\NPuzzleAI\\NPuzzleAI\\Form1.cs",
+              "RelativeDocumentMoniker": "NPuzzleAI\\Form1.cs",
+              "ToolTip": "D:\\C#\\NPuzzleAI\\NPuzzleAI\\Form1.cs [Design]*",
+              "RelativeToolTip": "NPuzzleAI\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:09:56.386Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\C#\\NPuzzleAI\\NPuzzleAI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "NPuzzleAI\\Form1.Designer.cs",
+              "ToolTip": "D:\\C#\\NPuzzleAI\\NPuzzleAI\\Form1.Designer.cs",
+              "RelativeToolTip": "NPuzzleAI\\Form1.Designer.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAhwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:10:09.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HandleImage.cs",
+              "DocumentMoniker": "D:\\C#\\NPuzzleAI\\NPuzzleAI\\HandleImage.cs",
+              "RelativeDocumentMoniker": "NPuzzleAI\\HandleImage.cs",
+              "ToolTip": "D:\\C#\\NPuzzleAI\\NPuzzleAI\\HandleImage.cs",
+              "RelativeToolTip": "NPuzzleAI\\HandleImage.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAawC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:15:43.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\NPuzzleAI\\NPuzzleAI\\Program.cs",
+              "RelativeDocumentMoniker": "NPuzzleAI\\Program.cs",
+              "ToolTip": "D:\\C#\\NPuzzleAI\\NPuzzleAI\\Program.cs",
+              "RelativeToolTip": "NPuzzleAI\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAawAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:27:25.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PuzzleGame.cs",
+              "DocumentMoniker": "D:\\C#\\NPuzzleAI\\NPuzzleAI\\PuzzleGame.cs",
+              "RelativeDocumentMoniker": "NPuzzleAI\\PuzzleGame.cs",
+              "ToolTip": "D:\\C#\\NPuzzleAI\\NPuzzleAI\\PuzzleGame.cs",
+              "RelativeToolTip": "NPuzzleAI\\PuzzleGame.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:43:05.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Result.cs",
+              "DocumentMoniker": "D:\\C#\\NPuzzleAI\\NPuzzleAI\\Result.cs",
+              "RelativeDocumentMoniker": "NPuzzleAI\\Result.cs",
+              "ToolTip": "D:\\C#\\NPuzzleAI\\NPuzzleAI\\Result.cs",
+              "RelativeToolTip": "NPuzzleAI\\Result.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:59:36.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\C#\\NPuzzleAI\\NPuzzleAI\\Node.cs",
+              "RelativeDocumentMoniker": "NPuzzleAI\\Node.cs",
+              "ToolTip": "D:\\C#\\NPuzzleAI\\NPuzzleAI\\Node.cs",
+              "RelativeToolTip": "NPuzzleAI\\Node.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAswDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:58:41.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "State.cs",
+              "DocumentMoniker": "D:\\C#\\NPuzzleAI\\NPuzzleAI\\State.cs",
+              "RelativeDocumentMoniker": "NPuzzleAI\\State.cs",
+              "ToolTip": "D:\\C#\\NPuzzleAI\\NPuzzleAI\\State.cs",
+              "RelativeToolTip": "NPuzzleAI\\State.cs",
+              "ViewState": "AgIAAHYBAAAAAAAAAAAswIkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:52:43.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "N_PuzzleApplication.cs",
+              "DocumentMoniker": "D:\\C#\\NPuzzleAI\\NPuzzleAI\\N_PuzzleApplication.cs",
+              "RelativeDocumentMoniker": "NPuzzleAI\\N_PuzzleApplication.cs",
+              "ToolTip": "D:\\C#\\NPuzzleAI\\NPuzzleAI\\N_PuzzleApplication.cs",
+              "RelativeToolTip": "NPuzzleAI\\N_PuzzleApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:53:51.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BFS.cs",
+              "DocumentMoniker": "D:\\C#\\NPuzzleAI\\NPuzzleAI\\BFS.cs",
+              "RelativeDocumentMoniker": "NPuzzleAI\\BFS.cs",
+              "ToolTip": "D:\\C#\\NPuzzleAI\\NPuzzleAI\\BFS.cs",
+              "RelativeToolTip": "NPuzzleAI\\BFS.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAwwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T21:20:09.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AStar.cs",
+              "DocumentMoniker": "D:\\C#\\NPuzzleAI\\NPuzzleAI\\AStar.cs",
+              "RelativeDocumentMoniker": "NPuzzleAI\\AStar.cs",
+              "ToolTip": "D:\\C#\\NPuzzleAI\\NPuzzleAI\\AStar.cs",
+              "RelativeToolTip": "NPuzzleAI\\AStar.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAwwIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:30:52.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DFS.cs",
+              "DocumentMoniker": "D:\\C#\\NPuzzleAI\\NPuzzleAI\\DFS.cs",
+              "RelativeDocumentMoniker": "NPuzzleAI\\DFS.cs",
+              "ToolTip": "D:\\C#\\NPuzzleAI\\NPuzzleAI\\DFS.cs",
+              "RelativeToolTip": "NPuzzleAI\\DFS.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAwwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T22:11:47.211Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

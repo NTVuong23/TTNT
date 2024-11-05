@@ -1,0 +1,16 @@
+D:\C#\BÁN VÉ RẠP CHIẾU PHIM\BÁN VÉ RẠP CHIẾU PHIM\obj\Debug\net8.0-windows\BÁN_VÉ_RẠP_CHIẾU_PHIM.Form1.resources
+D:\C#\BÁN VÉ RẠP CHIẾU PHIM\BÁN VÉ RẠP CHIẾU PHIM\obj\Debug\net8.0-windows\BÁN VÉ RẠP CHIẾU PHIM.csproj.GenerateResource.cache
+D:\C#\BÁN VÉ RẠP CHIẾU PHIM\BÁN VÉ RẠP CHIẾU PHIM\obj\Debug\net8.0-windows\BÁN VÉ RẠP CHIẾU PHIM.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\BÁN VÉ RẠP CHIẾU PHIM\BÁN VÉ RẠP CHIẾU PHIM\obj\Debug\net8.0-windows\BÁN VÉ RẠP CHIẾU PHIM.AssemblyInfoInputs.cache
+D:\C#\BÁN VÉ RẠP CHIẾU PHIM\BÁN VÉ RẠP CHIẾU PHIM\obj\Debug\net8.0-windows\BÁN VÉ RẠP CHIẾU PHIM.AssemblyInfo.cs
+D:\C#\BÁN VÉ RẠP CHIẾU PHIM\BÁN VÉ RẠP CHIẾU PHIM\obj\Debug\net8.0-windows\BÁN VÉ RẠP CHIẾU PHIM.csproj.CoreCompileInputs.cache
+D:\C#\BÁN VÉ RẠP CHIẾU PHIM\BÁN VÉ RẠP CHIẾU PHIM\bin\Debug\net8.0-windows\BÁN VÉ RẠP CHIẾU PHIM.exe
+D:\C#\BÁN VÉ RẠP CHIẾU PHIM\BÁN VÉ RẠP CHIẾU PHIM\bin\Debug\net8.0-windows\BÁN VÉ RẠP CHIẾU PHIM.deps.json
+D:\C#\BÁN VÉ RẠP CHIẾU PHIM\BÁN VÉ RẠP CHIẾU PHIM\bin\Debug\net8.0-windows\BÁN VÉ RẠP CHIẾU PHIM.runtimeconfig.json
+D:\C#\BÁN VÉ RẠP CHIẾU PHIM\BÁN VÉ RẠP CHIẾU PHIM\bin\Debug\net8.0-windows\BÁN VÉ RẠP CHIẾU PHIM.dll
+D:\C#\BÁN VÉ RẠP CHIẾU PHIM\BÁN VÉ RẠP CHIẾU PHIM\bin\Debug\net8.0-windows\BÁN VÉ RẠP CHIẾU PHIM.pdb
+D:\C#\BÁN VÉ RẠP CHIẾU PHIM\BÁN VÉ RẠP CHIẾU PHIM\obj\Debug\net8.0-windows\BÁN VÉ RẠP CHIẾU PHIM.dll
+D:\C#\BÁN VÉ RẠP CHIẾU PHIM\BÁN VÉ RẠP CHIẾU PHIM\obj\Debug\net8.0-windows\refint\BÁN VÉ RẠP CHIẾU PHIM.dll
+D:\C#\BÁN VÉ RẠP CHIẾU PHIM\BÁN VÉ RẠP CHIẾU PHIM\obj\Debug\net8.0-windows\BÁN VÉ RẠP CHIẾU PHIM.pdb
+D:\C#\BÁN VÉ RẠP CHIẾU PHIM\BÁN VÉ RẠP CHIẾU PHIM\obj\Debug\net8.0-windows\BÁN VÉ RẠP CHIẾU PHIM.genruntimeconfig.cache
+D:\C#\BÁN VÉ RẠP CHIẾU PHIM\BÁN VÉ RẠP CHIẾU PHIM\obj\Debug\net8.0-windows\ref\BÁN VÉ RẠP CHIẾU PHIM.dll
